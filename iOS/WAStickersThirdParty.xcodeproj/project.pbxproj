@@ -30,6 +30,12 @@
 		055CF90B25C117C90071BA8D /* tray_TogetherAtHome.png in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8F525C117C90071BA8D /* tray_TogetherAtHome.png */; };
 		055CF90C25C117C90071BA8D /* 07_OK.webp in Resources */ = {isa = PBXBuildFile; fileRef = 055CF8F625C117C90071BA8D /* 07_OK.webp */; };
 		0E6359A4203E148200805DEB /* StickerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6359A3203E148200805DEB /* StickerCell.swift */; };
+		29358E2C2B354B3A000A963A /* lenovo_tray.png in Resources */ = {isa = PBXBuildFile; fileRef = 29358E2B2B354B3A000A963A /* lenovo_tray.png */; };
+		29358E382B35745D000A963A /* icon-96x96-Lenovo.png in Resources */ = {isa = PBXBuildFile; fileRef = 29358E372B35745D000A963A /* icon-96x96-Lenovo.png */; };
+		29599B672B35363A00BD6B96 /* 02_Lenovo_Happy_Holidays.webp in Resources */ = {isa = PBXBuildFile; fileRef = 29599B632B35363A00BD6B96 /* 02_Lenovo_Happy_Holidays.webp */; };
+		29599B682B35363A00BD6B96 /* 03_Lenovo_Happy_New_Year.webp in Resources */ = {isa = PBXBuildFile; fileRef = 29599B642B35363A00BD6B96 /* 03_Lenovo_Happy_New_Year.webp */; };
+		29599B692B35363A00BD6B96 /* 01_Lenovo_AI_For_All.webp in Resources */ = {isa = PBXBuildFile; fileRef = 29599B652B35363A00BD6B96 /* 01_Lenovo_AI_For_All.webp */; };
+		29599B6A2B35363A00BD6B96 /* 04_Lenovo_Merry_Christmas.webp in Resources */ = {isa = PBXBuildFile; fileRef = 29599B662B35363A00BD6B96 /* 04_Lenovo_Merry_Christmas.webp */; };
 		8A0A6DCD1FE9F1CE00110AF2 /* UIAlertController+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0A6DCC1FE9F1CE00110AF2 /* UIAlertController+Additions.swift */; };
 		8A18E2EE1FB3B47D0082201D /* YYImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2E51FB3B47B0082201D /* YYImage.m */; };
 		8A18E2EF1FB3B47D0082201D /* YYAnimatedImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A18E2E81FB3B47C0082201D /* YYAnimatedImageView.m */; };
@@ -125,6 +131,12 @@
 		055CF8F525C117C90071BA8D /* tray_TogetherAtHome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tray_TogetherAtHome.png; sourceTree = "<group>"; };
 		055CF8F625C117C90071BA8D /* 07_OK.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 07_OK.webp; sourceTree = "<group>"; };
 		0E6359A3203E148200805DEB /* StickerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StickerCell.swift; sourceTree = "<group>"; };
+		29358E2B2B354B3A000A963A /* lenovo_tray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lenovo_tray.png; sourceTree = "<group>"; };
+		29358E372B35745D000A963A /* icon-96x96-Lenovo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-96x96-Lenovo.png"; sourceTree = "<group>"; };
+		29599B632B35363A00BD6B96 /* 02_Lenovo_Happy_Holidays.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 02_Lenovo_Happy_Holidays.webp; sourceTree = "<group>"; };
+		29599B642B35363A00BD6B96 /* 03_Lenovo_Happy_New_Year.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 03_Lenovo_Happy_New_Year.webp; sourceTree = "<group>"; };
+		29599B652B35363A00BD6B96 /* 01_Lenovo_AI_For_All.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 01_Lenovo_AI_For_All.webp; sourceTree = "<group>"; };
+		29599B662B35363A00BD6B96 /* 04_Lenovo_Merry_Christmas.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 04_Lenovo_Merry_Christmas.webp; sourceTree = "<group>"; };
 		8A0A6DCC1FE9F1CE00110AF2 /* UIAlertController+Additions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIAlertController+Additions.swift"; sourceTree = "<group>"; };
 		8A18E2E31FB3B47A0082201D /* WAStickersThirdParty-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WAStickersThirdParty-Bridging-Header.h"; sourceTree = "<group>"; };
 		8A18E2E41FB3B47B0082201D /* YYImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYImage.h; sourceTree = "<group>"; };
@@ -272,6 +284,12 @@
 		8A26A6A71FEB2E2400256DE8 /* SampleStickers */ = {
 			isa = PBXGroup;
 			children = (
+				29358E372B35745D000A963A /* icon-96x96-Lenovo.png */,
+				29358E2B2B354B3A000A963A /* lenovo_tray.png */,
+				29599B652B35363A00BD6B96 /* 01_Lenovo_AI_For_All.webp */,
+				29599B632B35363A00BD6B96 /* 02_Lenovo_Happy_Holidays.webp */,
+				29599B642B35363A00BD6B96 /* 03_Lenovo_Happy_New_Year.webp */,
+				29599B662B35363A00BD6B96 /* 04_Lenovo_Merry_Christmas.webp */,
 				055CF8EF25C117C90071BA8D /* 01_SendingLove.webp */,
 				055CF8F525C117C90071BA8D /* tray_TogetherAtHome.png */,
 				055CF8E125C117C80071BA8D /* 02_WellDoThisTogether.webp */,
@@ -436,6 +454,7 @@
 				8AC234B72146F65500E3667B /* 18_Cuppy_workhard.png in Resources */,
 				8AC234892146F63D00E3667B /* tray_Cuppy.png in Resources */,
 				8A27F11C1FD73DD0001B2BBD /* StickerPackTableViewCell.xib in Resources */,
+				29599B672B35363A00BD6B96 /* 02_Lenovo_Happy_Holidays.webp in Resources */,
 				8AC234A92146F65500E3667B /* 14_Cuppy_weird.png in Resources */,
 				055CF8FC25C117C90071BA8D /* 06_StayConnected.webp in Resources */,
 				8AC234AD2146F65500E3667B /* 01_Cuppy_smile.png in Resources */,
@@ -453,18 +472,23 @@
 				055CF90925C117C90071BA8D /* 03_Heart.webp in Resources */,
 				055CF90725C117C90071BA8D /* 16_WorkingFromHomeM.webp in Resources */,
 				055CF8FB25C117C90071BA8D /* 11_StayCalm.webp in Resources */,
+				29358E2C2B354B3A000A963A /* lenovo_tray.png in Resources */,
 				8A22EE0E1F9A9F40003A7F21 /* LaunchScreen.storyboard in Resources */,
 				055CF90A25C117C90071BA8D /* 09_StayingHomeMug.webp in Resources */,
 				055CF8FD25C117C90071BA8D /* 14_CatOnTheLaptop.webp in Resources */,
+				29599B692B35363A00BD6B96 /* 01_Lenovo_AI_For_All.webp in Resources */,
 				055CF90C25C117C90071BA8D /* 07_OK.webp in Resources */,
 				055CF8FA25C117C90071BA8D /* 19_SocialDistancing.webp in Resources */,
 				8A22EE0B1F9A9F40003A7F21 /* Assets.xcassets in Resources */,
 				055CF90025C117C90071BA8D /* 05_GroupVideoCalling.webp in Resources */,
+				29358E382B35745D000A963A /* icon-96x96-Lenovo.png in Resources */,
 				055CF8F825C117C90071BA8D /* 17_WashingHands.webp in Resources */,
 				055CF90625C117C90071BA8D /* 08_AreYouOK.webp in Resources */,
 				055CF90825C117C90071BA8D /* 21_YouAreMyHero.webp in Resources */,
+				29599B682B35363A00BD6B96 /* 03_Lenovo_Happy_New_Year.webp in Resources */,
 				8AC235042149FA3000E3667B /* 11_Cuppy_upset.png in Resources */,
 				8AC234AB2146F65500E3667B /* 12_Cuppy_angry.png in Resources */,
+				29599B6A2B35363A00BD6B96 /* 04_Lenovo_Merry_Christmas.webp in Resources */,
 				055CF8FF25C117C90071BA8D /* 18_DontTouchYourFace.webp in Resources */,
 				8AC234B42146F65500E3667B /* 04_Cuppy_sad.png in Resources */,
 				8A27F1311FD9E987001B2BBD /* LinkTableViewCell.xib in Resources */,
@@ -656,13 +680,13 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 57T9237FN3;
+				DEVELOPMENT_TEAM = 775A4DC8SR;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = WA.WAStickersThirdParty;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -680,13 +704,13 @@
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 57T9237FN3;
+				DEVELOPMENT_TEAM = 775A4DC8SR;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = WA.WAStickersThirdParty;
 				PRODUCT_NAME = "$(TARGET_NAME)";
