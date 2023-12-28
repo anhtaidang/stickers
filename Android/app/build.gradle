@@ -5,13 +5,13 @@ android {
     aaptOptions {
         noCompress "webp"
     }
-    compileSdkVersion 30
+    compileSdkVersion 33
     defaultConfig {
-        applicationId "com.example.samplestickerapp"
-        minSdkVersion 15
-        targetSdkVersion 30
-        versionCode 1
-        versionName "1.0"
+        applicationId "com.dat.DATstickerapp"
+        minSdkVersion 19
+        targetSdkVersion 33
+        versionCode 4
+        versionName "4.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         def contentProviderAuthority = applicationId + ".stickercontentprovider"
         // Creates a placeholder property to use in the manifest.
@@ -32,6 +32,7 @@ android {
             minifyEnabled true
             shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.debug
         }
     }
     compileOptions {
@@ -112,4 +113,5 @@ dependencies {
     implementation "com.facebook.fresco:webpsupport:$fresco_version"
     implementation "com.facebook.fresco:animated-webp:$fresco_version"
     implementation "com.facebook.fresco:animated-base:$fresco_version"
+    implementation 'com.google.android.play:integrity:1.3.0'
 }
