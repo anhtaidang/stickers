@@ -21,6 +21,7 @@
 
         <ImageView
             android:id="@+id/tray_image"
+            android:labelFor="@+id/tray_image"
             android:layout_width="36dp"
             android:layout_height="36dp"
             android:layout_marginStart="16dp"
@@ -47,6 +48,7 @@
 
         <ImageView
             android:id="@+id/sticker_pack_animation_indicator"
+            android:labelFor="@+id/sticker_pack_animation_indicator"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="4dp"
@@ -155,6 +157,7 @@
 
                 <TextView
                     style="@style/StickerPreviewButtonText"
+                    android:textColor="@color/colorWhite"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -164,8 +167,8 @@
                     android:drawableLeft="@drawable/sticker_3rdparty_wa"
                     android:drawablePadding="8dp"
                     android:focusable="false"
-                    android:foreground="@android:color/transparent"
                     android:text="@string/add_to_whatsapp" />
+<!--                    android:foreground="@android:color/transparent"-->
 
 
             </FrameLayout>
